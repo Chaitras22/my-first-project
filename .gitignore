@@ -1,0 +1,7 @@
+# Files Git should ignore (never check these in)
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.DS_Store
+practice-sandbox/
