@@ -8,3 +8,4 @@ Learning Git branches and commits
 Practising GitHub pull requests
 Change made in feature branch
 Change made in main branch
+Practising Git clone and push from a cloned repository.
